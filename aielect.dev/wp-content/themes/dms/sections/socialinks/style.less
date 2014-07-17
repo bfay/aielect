@@ -1,0 +1,48 @@
+.socialinks-wrap {
+	
+
+	.sl-text{
+		float: left;
+		line-height: 26px;
+		font-size: 12px;
+		.sl-copy{
+			padding-right: 10px;
+		}
+		.sl-nav{
+			li a{
+				padding: 0 10px;
+			}
+		}
+	} 
+	.sl-links{
+		float: right;
+	}
+	
+	&.sl-links-left{
+		.sl-text{
+			float: right;
+		}
+		.sl-links{
+			float: left;
+		}
+	}
+	@media (max-width: @resPortraitTablet) {
+		.sl-text, 
+		.sl-links{
+			
+			float: none;
+			text-align: center;
+			margin: 10px 0;
+		}
+		.pl-nav{
+			display: block;
+		}
+
+	}
+}
+.sl-link{
+	font-size: 22px;
+	line-height: 22px;
+	margin: 0 8px;
+	color: inherit;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<site>
+<localinfo sitename="aielect.dev" ftporrdsserver="FALSE" localroot="Macintosh HD:Users:byronfay:GitHub:aielect:aielect.dev:" assetfolder="Macintosh HD:Users:byronfay:GitHub:aielect:aielect.dev:SpryAssets" imagefolder="" spacerfilepath="" refreshlocal="TRUE" autouploadfiles="FALSE" maintainsyncinfo="TRUE" rewritedocrellinks="FALSE" cache="TRUE" httpaddress="http://aielect.dev/" relativeTo="DOCUMENT" caseSensitiveLinks="TRUE" curserver="webserver"/>
+<remoteinfo  accesstype="lan" remoteroot="Macintosh HD/Users/byronfay/GitHub/aielect/aielect.dev" refreshremote="FALSE" checkoutname="" emailaddress="" enablecheckin="FALSE" checkoutwhenopen="TRUE"/>
+<designnotes usedesignnotes="TRUE" sharedesignnotes="FALSE"/>
+<sitemap homepage="" pagesperrow="200" columnwidth="125" showdependentfiles="FALSE" showpagetitles="FALSE" showhiddenfiles="FALSE"/>
+<appserverinfo servermodel="PHP MySQL" urlprefix="http://aielect.dev/" connectionsmigrated="FALSE" serverobjectsversion="1" defaultdoctype="HTML" accesstype="lan" remoteroot="Macintosh HD/Users/byronfay/GitHub/aielect/aielect.dev" refreshremote="FALSE" testsvrbinaccesstype="none"/>
+<cloaking enabled="TRUE" patterns="FALSE">
+        <cloakedfolder folder="dw_php_codehinting.config"/>
+        <cloakedpattern pattern=".fla"/>
+        <cloakedpattern pattern=".psd"/>
+</cloaking>
+<contributorintegration enabled="FALSE"/>
+</site>

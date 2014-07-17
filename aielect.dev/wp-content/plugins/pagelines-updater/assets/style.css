@@ -1,0 +1,24 @@
+.column-product_name {
+	width: 60%;
+}
+.column-product_version {
+	width: 10%;
+}
+.column-product_status {
+	width: 22%;
+}
+
+.column-product_name {
+    clear:both;
+    clip:auto;
+    overflow: hidden;
+}
+
+input[type="text"].input-key {
+	width: 325px;
+	height: 30px;
+}
+
+.about-text {
+	min-height: 10px;
+}
